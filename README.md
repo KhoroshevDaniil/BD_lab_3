@@ -1,5 +1,6 @@
-**⚠️ This repository has been archived and is no longer being maintained. For up-to-date content, see https://github.com/ververica/flink-training. ⚠️**
+# Big Data lab 3
 
----
-
-This repository contains examples and exercises for Apache Flink.
+* [RideCleansingExercise](src/main/java/com/ververica/flinktraining/exercises/datastream_java/basics/RideCleansingExercise.java)
+* [RidesAndFaresExercise](src/main/java/com/ververica/flinktraining/exercises/datastream_java/state/RidesAndFaresExercise.java)
+* [HourlyTipsExercise](src/main/java/com/ververica/flinktraining/exercises/datastream_java/windows/HourlyTipsExercise.java)
+* [ExpiringStateExercise](src/main/java/com/ververica/flinktraining/exercises/datastream_java/process/ExpiringStateExercise.java)
